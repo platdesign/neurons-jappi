@@ -1,0 +1,22 @@
+{
+  "name": "neurons-jappi",
+  "version": "0.0.1",
+  "authors": [
+    "Christian Blaschke <mail@platdesign.de>"
+  ],
+  "description": "JSON-API Module for Neurons",
+  "main": "module.php",
+  "keywords": [
+    "neurons",
+    "php"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ]
+}
