@@ -21,6 +21,7 @@
   ],
   "dependencies":{
 	  "neurons":"*",
-	  "neurons-express":"*"
+	  "neurons-express":"*",
+	  "neurons-fs":"*"
   }
 }

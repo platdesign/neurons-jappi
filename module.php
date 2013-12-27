@@ -1,6 +1,6 @@
 <?PHP
 
-	$module = nrns::module('jappi', ['express']);
+	$module = nrns::module('jappi', ['express', 'fs']);
 
 	$module->config(function(){
 	
